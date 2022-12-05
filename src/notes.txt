@@ -1,2 +1,0 @@
-my notes that will not be tracked
-because I put it in gitignore before tracking and committing
